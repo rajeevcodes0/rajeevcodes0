@@ -1,4 +1,4 @@
-- 👋 Hi, Rajeev Pandey
+- 👋 Hi, I'm Rajeev Pandey
 - 👀 I’m interested in FronetEnd 
 - 🌱 I’m currently learning Webpack
 - 📫 How to reach me https://www.linkedin.com/in/rajeev-pandey-991878229/
