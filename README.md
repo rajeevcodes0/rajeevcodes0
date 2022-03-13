@@ -2,6 +2,7 @@
 - 👀 I’m interested in FronetEnd 
 - 🌱 I’m currently learning Webpack
 - 📫 How to reach me https://www.linkedin.com/in/rajeev-pandey-991878229/
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevcodes0)
 
 <!---
 rajeevcodes0/rajeevcodes0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
